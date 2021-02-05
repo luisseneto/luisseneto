@@ -30,6 +30,8 @@ You can find my articles on my [website](https://luisseneto.github.io/). (Websit
 
 ![](https://img.shields.io/badge/Tools-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
