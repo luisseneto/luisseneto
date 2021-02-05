@@ -9,7 +9,7 @@ My name is Luis and I'm a Data Scientist. I'm from Brasil, living in Fortaleza/C
 
 ## &#x270d; Blog & Writing
 
-You can find my articles on my [website](https://luisseneto.github.io/).
+You can find my articles on my [website](https://luisseneto.github.io/). (Website in progress...)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -21,10 +21,18 @@ You can find my articles on my [website](https://luisseneto.github.io/).
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Apache_Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Apache_Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Tools-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
 
 
 
