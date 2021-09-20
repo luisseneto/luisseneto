@@ -6,7 +6,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luis and I'm a Data Scientist. I'm from Brasil, living in Fortaleza/CE and currently working at FortBrasil. You can find me on [![LinkedIn][2.2]][2].
+My name is Luis and I'm a Data Scientist. I'm from Brasil, living in Fortaleza/CE and currently working at Solfacil. You can find me on [![LinkedIn][2.2]][2].
 
 ## &#x270d; Blog & Writing
 
